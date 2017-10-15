@@ -163,8 +163,8 @@ concepts:
 
           Ecma International 是一个很重要的行业社区，强烈推荐详细了解该机构：
 
-          * [Ecma 国际组织](https://en.wikipedia.org/wiki/Ecma_International)(Ecma International）
-          * [什么是 Ecma](http://www.ecma-international.org/memento/index.html)(What is Ecma)
+          * [Ecma 国际组织](https://en.wikipedia.org/wiki/Ecma_International)（Ecma International）
+          * [什么是 Ecma](http://www.ecma-international.org/memento/index.html)（What is Ecma）
 
           > **注意：**我们在这门课程中学习的代码在旧浏览器中不受支持。在发布 ES6 之前开发的旧浏览器支持的是当时版本的 JavaScript（即 ES5.1）。如果你尝试在旧浏览器中运行任何 ES6 代码，将无法运行。
         instructor_notes: ''
