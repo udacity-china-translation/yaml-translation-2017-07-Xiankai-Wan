@@ -406,7 +406,7 @@ concepts:
         text: |-
           ## 什么是 polyfill？
 
-          > polyfill（或 polyfiller）是一段代码（或插件），可以为你（即开发工程师）提供希望浏览器支持原生的技术。
+          > polyfill（或 polyfiller）是一段代码（或插件），可以为你（即开发工程师）提供希望浏览器原生支持的技术。
 
           polyfill 一词由 [Remy Sharp](https://twitter.com/rem) 发明 - https://remysharp.com/2010/10/08/what-is-a-polyfill
 
